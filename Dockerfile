@@ -1,1 +1,1 @@
-FROM registry.k8s.io/csi-secrets-store/driver:v1.3.3
+FROM nvcr.io/nvidia/driver:550.90.07
