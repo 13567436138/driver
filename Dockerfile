@@ -1,1 +1,1 @@
-FROM nvcr.io/nvidia/driver:550.90.07-ubuntu22.04
+FROM nvcr.io/nvidia/driver:515.65.01-ubuntu22.04
